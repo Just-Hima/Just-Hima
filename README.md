@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim M. Abdelsalam
 =============================================================================================================================================
 
-Data Analysis & AI Trainee
+Industrial Engineer
 --------------------------
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ibrahim.m.abelsalam@gmail.com](mailto:ibrahim.m.abelsalam@gmail.com)
-* 🧠  I'm learning QA, AI and Data Science
+* 🧠  I'm learning QA, AI, and Process Optimization
 
 ### Skills
 
